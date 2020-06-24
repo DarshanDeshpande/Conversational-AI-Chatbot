@@ -1,0 +1,5 @@
+numpy
+matplotlib
+tensorflow-gpu
+h5py
+tensorflow-datasets==1.2.0
